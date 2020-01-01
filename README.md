@@ -1,1 +1,1 @@
-# pacemaker-skeleton-client
+# pacemaker-skeleton
